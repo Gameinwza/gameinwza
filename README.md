@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm Apiruk Punbunchu</h1>
-<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Design</h3>
 
 ---
 
