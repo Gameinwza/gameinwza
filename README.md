@@ -1,77 +1,89 @@
-<h1 align="center">👋 อภิรักษ์ ปั้นบุญชู</h1>
-<h3 align="center">💻 FULL STACK DEVELOPER</h3>
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Apiruk Punbunchu</h1>
+<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
 
-### 🧠 ABOUT ME
-ผมชื่นชอบการออกแบบและพัฒนาในส่วนของ **Figma** และ **Frontend** (เช่น React, Tailwind CSS)  
-ปัจจุบันกำลังศึกษาเพิ่มเติมในฝั่ง **Backend**  
-และมุ่งสู่การเป็น **Full Stack Developer** ที่สามารถดูแลระบบได้ครบทุกส่วน
+### 🧠 About Me
+- 💬 ชอบออกแบบและพัฒนาเว็บ โดยเฉพาะ **Figma + Frontend (React, Tailwind CSS)**  
+- 🚀 กำลังฝึกฝนฝั่ง **Backend** เพื่อเป็น Full Stack Developer ที่ครบทุกด้าน  
+- 🎓 ศึกษาอยู่ที่ **สาขาวิทยาศาสตร์ดิจิทัลและเทคโนโลยี (DST)**  
+  คณะ **ICT มหาวิทยาลัยมหิดล**  
+- 📞 โทร: 082-483-6650  
+- 📧 อีเมล: [apunbunbchu@gmail.com](mailto:apunbunbchu@gmail.com)
 
 ---
 
-### 💡 PROGRAMMING SKILLS
+### ⚡ Tech Stack
 
-- 🧠 **Languages:** Python, Java, JavaScript  
-- 🎨 **Frontend:** React, Tailwind CSS, HTML, CSS  
-- 🗄️ **Database:** MySQL  
-- 🛠️ **Tools:** Figma, Git, VS Code
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🚀 PROJECTS
+### 🚀 Projects
 
 #### 🔹 BookMe Figma Design
-โปรเจกต์ออกแบบเว็บไซต์ “จองห้องอ่านหนังสือภายในมหาวิทยาลัย”  
-โดยสร้างต้นแบบหลักของการใช้งานจริง (mockup) ผ่านเครื่องมือ **Figma**  
-ผมออกแบบตั้งแต่ **โครงร่าง (wireframe)** จนถึง **prototype** ที่สามารถคลิกใช้งานได้จริง  
-พร้อมตกแต่งหน้าเพจให้ครบทุกหน้าของระบบ เพื่อแสดงกระบวนการใช้งานจองห้องอย่างสมบูรณ์
+ออกแบบระบบจองห้องอ่านหนังสือในมหาวิทยาลัย  
+ตั้งแต่ **Wireframe → Prototype** ด้วย **Figma**  
+พร้อมจัดโครงสร้างหน้าเว็บครบทุกหน้าเพื่อแสดงประสบการณ์ใช้งานจริง
 
 #### 🔹 Kai-Shirt Web
-เว็บไซต์ขายเสื้อออนไลน์ แบ่งการพัฒนาออกเป็น 2 ส่วนหลัก:  
-- **Frontend:** ออกแบบใน Figma และพัฒนาโดยใช้ React + Tailwind CSS  
-  มีระบบ Search, Shop และ Product Detail  
-- **Backend:** ออกแบบระบบจัดเก็บข้อมูล Product และ Category  
-  เพื่อจัดการข้อมูลตามหมวดหมู่สินค้าในระบบ
+เว็บไซต์ขายเสื้อออนไลน์  
+- 🖥️ **Frontend:** React + TailwindCSS  
+- ⚙️ **Backend:** ระบบจัดการ Product / Category  
+- 🎨 ออกแบบ UX/UI ทั้งหมดใน Figma
 
 ---
 
-### 👤 PERSONAL INFO
-
-| ข้อมูล | รายละเอียด |
-|---------|-------------|
-| ชื่อเล่น | เกม |
-| อายุ | 19 ปี |
-| สัญชาติ | ไทย |
-| เพศ | ชาย |
-
----
-
-### 🎓 EDUCATION
-
-- กำลังศึกษาระดับ **ปริญญาตรี**  
-  สาขา **วิทยาศาสตร์ดิจิทัลและเทคโนโลยี (Digital Science and Technology – DST)**  
-  คณะ **เทคโนโลยีสารสนเทศและการสื่อสาร (ICT)**  
-  มหาวิทยาลัยมหิดล  
-
-- **2020–2023** วิทยาลัยเทคโนโลยีสุวรรณภูมิบริหารธุรกิจ  
-  สาขา **คอมพิวเตอร์ธุรกิจ**
-
----
-
-### 📞 CONTACT
-
-📱 **Phone:** 082-483-6650  
-📧 **Email:** [apunbunbchu@gmail.com](mailto:apunbunbchu@gmail.com)
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApirukPunbunchu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApirukPunbunchu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApirukPunbunchu&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApirukPunbunchu&theme=tokyonight" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApirukPunbunchu&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-⭐ _"Design with passion. Develop with purpose."_
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:apunbunbchu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ApirukPunbunchu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/g0dgam3inwza/?hl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ApirukPunbunchu&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### ✨ Quote
+> “Design with passion, develop with purpose.”  
+⭐ ฝากกด Star โปรเจกต์ที่ชอบด้วยครับ 😄
