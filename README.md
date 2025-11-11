@@ -16,8 +16,6 @@
 ### ⚡ Tech Stack
 ## 💻 Tech Stack
 
----
-
 ### 👨‍💻 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
