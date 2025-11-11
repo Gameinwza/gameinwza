@@ -11,40 +11,46 @@
   คณะ **ICT มหาวิทยาลัยมหิดล**  
 - 📧 อีเมล: [apunbunbchu@gmail.com](mailto:apunbunbchu@gmail.com)
 
----
-
-### ⚡ Tech Stack
-## 💻 Tech Stack
-
-### 👨‍💻 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
 
 ---
 
-### 🧰 Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express" />
-</p>
+## 🚀 Tech Stack
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&vCenter=true&width=500&lines=⚡+Code.+Create.+Deploy.+Repeat.+⚡;Always+Learning+New+Techs!)
 
 ---
 
-### 🧩 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,postman,raspberrypi,linux,git,vscode" />
-</p>
+### 👨‍💻 Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![Javascript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 ---
 
-### 🧠 Design & Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,mysql" />
-</p>
+### 🧰 Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ---
 
-<h3 align="center">🔥 Always Learning, Always Building 🔥</h3>
+### 🧩 Tools & Platforms
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
+![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+### 🧠 Design & Database
+![Figma](https://skillicons.dev/icons?i=figma)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
