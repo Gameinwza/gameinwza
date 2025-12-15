@@ -74,8 +74,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gameinwza&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gameinwza&theme=tokyonight" alt="streak stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameinwza&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
