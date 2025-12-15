@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Apiruk Panboonchu</h1>
+<h1 align="center">👋 Hi, I'm Apirak Panboonchu</h1>
 <h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Design</h3>
 
 ---
