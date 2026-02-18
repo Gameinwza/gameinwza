@@ -14,11 +14,14 @@ Python · Java · JavaScript · HTML · CSS · Bash
 **Frontend**  
 React · Next.js · Tailwind CSS  
 
-**Backend**  
-Node.js · Express · Bun · Elysia  
+**Backend & API**  
+Node.js · Express · Bun · Elysia · REST API · JWT  
 
 **Database**  
 MySQL  
+
+**Cloud & Networking**  
+Cloudflare · Tailscale  
 
 **Tools**  
 Git · Linux · VSCode · Postman · Raspberry Pi  
